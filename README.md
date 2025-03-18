@@ -10,7 +10,7 @@
 - [References](#references)
   
 # About -- Kennedy 
-
+_Equitable AI for Dermatology_ 
 
 # Project-overview -- alice
 
