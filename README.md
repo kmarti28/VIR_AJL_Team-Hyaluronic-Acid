@@ -90,21 +90,18 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ## **🖼️ Impact Narrative**
 
-**Answer the relevant questions below based on your competition:**
-
-**WiDS challenge:**
-
-1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?
-2. How could your work help contribute to ADHD research and/or clinical care?
-
 **AJL challenge:**
 
 As Dr. Randi mentioned in her challenge overview, “Through poetry, art, and storytelling, you can reach others who might not know enough to understand what’s happening with the machine learning model or data visualizations, but might still be heavily impacted by this kind of work.”
 As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
 Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi6TlPviC3q/view) from the Algorithmic Justice League for inspiration!
 
-1. What steps did you take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)? (e.g., leveraging data augmentation techniques to account for training dataset imbalances; using a validation set to assess model performance across different skin tones)
-2. What broader impact could your work have?
+1. What steps did you take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)?
+   As a team, we used data augmentation to ensure that our training model had equal amounts of all skin tones. We rotated, shifted, and blurred the data so that our training data had a larger range of skin tones. This allows for our model to be trained on more then one skin tone and be able to identify skin conditional regardless of the shade. Below you will see the example of what blurred data looked like:
+   ![image](https://github.com/user-attachments/assets/f37f6c7a-447a-441b-8cc8-151c78222c97)
+
+3. What broader impact could your work have?
+   The broader impact of this model would mean that dermatology AI would be more racially inclusive allowing for all people to use it without fear of misclassification or inaccuracy.
 
 ---
 
