@@ -9,19 +9,17 @@
 |Kennedy Martin| @kmarti28 | performed data augmentation, fine-tuned CNN model|
 |Lucia Njemanze| @lucia175 | built CNN model, finetuned external model|
 |Jenny Leana Fotso Ngompe| @LeanaNgompe |data augmentation, fine-tune CNN model|
-| ----- | AliceGonzalez1 | ----- |
+| Alice Gonzalez | @AliceGonzalez1 | transfer learning DermNet, fine-tune CNN model |
 | ----- | ----- | ----- |
 
 ---
 
 ## **🎯 Project Highlights**
 
-**Example:**
 
-* Built a CNN model using sci-kit learn and TensorFlow to solve racial disparities in dermatology AI by creating a model that accurately classifies skin conditions regardless of skin color.
-* Achieved an F1 score of 0.04928  and a ranking of 56 on the final Kaggle Leaderboard
-* Used \[explainability tool\] to interpret model decisions ← not sure what to put here 
-* Implemented rotating, shifting, and blurring data images to optimize results within computing constraints
+* Utilized machine learning techniques with scikit-learn and TensorFlow to develop an inclusive CNN machine learning model for dermatology that accurately classifies skin conditions across all skin tones.
+* Achieved an F1 score of 0.04928  and a ranking of 56 on the final Kaggle Leaderboard. 
+* Implemented data preprocessing approaches of rotating, shifting, and blurring data images to optimize results within computing constraints.
 
 🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
 
