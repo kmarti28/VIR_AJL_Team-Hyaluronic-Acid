@@ -27,7 +27,7 @@
 
 ---
 
-## **👩🏽‍💻 Setup & Execution** [not done]
+## **👩🏽‍💻 Setup & Execution** 
 
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
@@ -65,7 +65,7 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ---
 
-## **🧠 Model Development** 
+## **🧠 Model Development**  [Alice]
 
 **Describe (as applicable):**
 
