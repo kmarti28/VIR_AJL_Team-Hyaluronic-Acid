@@ -7,7 +7,7 @@
 | Name | GitHub Handle | GitHub Profile Link | Contribution |
 | ----- | ----- | ----- | ----- |
 |Kennedy Martin| @kmarti28 | https://github.com/kmarti28 | performed data augmentation, fine-tuned CNN model|
-|Lucia Njemanze| @lucia175 | https://github.com/lucia175/lucia175 | built CNN model, finetuned external model|
+|Lucia Njemanze| @lucia175 | https://github.com/lucia175 | built CNN model, finetuned external model|
 |Jenny Leana Fotso Ngompe| @LeanaNgompe | |data augmentation, fine-tune CNN model|
 | Alice Gonzalez | @AliceGonzalez1 | | Built DenseNet121 model, performed data augumentation |
 | Uchenna Justin | @uchenna-hj | | Dataset Benchmarking |
