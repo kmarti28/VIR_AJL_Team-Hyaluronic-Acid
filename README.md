@@ -8,7 +8,7 @@
 | ----- | ----- | ----- | ----- |
 |Kennedy Martin| @kmarti28 | https://github.com/kmarti28 | performed data augmentation, fine-tuned CNN model|
 |Lucia Njemanze| @lucia175 | https://github.com/lucia175 | built CNN model, finetuned external model|
-|Jenny Leana Fotso Ngompe| @LeanaNgompe | performed data augmentation, fine-tune CNN model, refined DenseNet121 Model|
+|Jenny Leana Fotso Ngompe| @LeanaNgompe | https://github.com/LeanaNgompe | performed data augmentation, fine-tune CNN model, refined DenseNet121 Model|
 | Alice Gonzalez | @AliceGonzalez1 | | Built DenseNet121 model, performed data augumentation |
 | Uchenna Justin | @uchenna-hj | | Dataset Benchmarking |
 | Eman Ahmed | @eahmed04 | https://github.com/eahmed04| Dataset Benchmarking |
