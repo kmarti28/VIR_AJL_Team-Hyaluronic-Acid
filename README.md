@@ -56,11 +56,11 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 **Potential visualizations to include:**
 
 * sample dataset images:
-  <img width="425" alt="image" src="https://github.com/user-attachments/assets/4ce9ee73-bf82-476c-8b2b-67f6b4757e43" />
+* <img width="425" alt="image" src="https://github.com/user-attachments/assets/4ce9ee73-bf82-476c-8b2b-67f6b4757e43" />
 * rotated image:
- ![image](https://github.com/user-attachments/assets/a690e073-2829-4356-b7e4-d59e69b7bfad)
+* ![image](https://github.com/user-attachments/assets/a690e073-2829-4356-b7e4-d59e69b7bfad)
 * blurred image:
-  ![image](https://github.com/user-attachments/assets/a061c0b2-7b0a-4f81-b569-8a6d75518dff)
+*  ![image](https://github.com/user-attachments/assets/a061c0b2-7b0a-4f81-b569-8a6d75518dff)
 
 ---
 
