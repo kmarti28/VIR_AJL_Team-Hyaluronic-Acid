@@ -11,7 +11,7 @@
 |Jenny Leana Fotso Ngompe| @LeanaNgompe | |data augmentation, fine-tune CNN model|
 | Alice Gonzalez | @AliceGonzalez1 | | Built DenseNet121 model, performed data augumentation |
 | Uchenna Justin | @uchenna-hj | | Dataset Benchmarking |
-| Eman Ahmed | @eahmed04 | | Dataset Benchmarking |
+| Eman Ahmed | @eahmed04 | https://github.com/eahmed04| Dataset Benchmarking |
 
 ---
 
