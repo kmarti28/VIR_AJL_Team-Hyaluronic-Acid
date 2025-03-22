@@ -4,7 +4,7 @@
 
 ### **👥 Team Members**
 
-| Name | GitHub Handle | GitHub Link | Contribution |
+| Name | GitHub Handle | GitHub Profile Link | Contribution |
 | ----- | ----- | ----- | ----- |
 |Kennedy Martin| @kmarti28 | https://github.com/kmarti28 | performed data augmentation, fine-tuned CNN model|
 |Lucia Njemanze| @lucia175 | | built CNN model, finetuned external model|
