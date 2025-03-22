@@ -7,7 +7,6 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 |Kennedy Martin| @kmarti28 | performed data augmentation, fine-tuned CNN model|
-
 |Lucia Njemanze| @lucia175 | built CNN model, finetuned external model|
 |Jenny Leana Fotso Ngompe| @LeanaNgompe |data augmentation, fine-tune CNN model|
 | ----- | AliceGonzalez1 | ----- |
