@@ -40,6 +40,8 @@
 
 ## **🏗️ Project Overview**
 
+Break Through Tech has partnered with Algorithmic Justice League and Women in Data Science to create Kaggle challenges. These challenges will allow students to practice machine learning and AI fundamentals. Teams will need to utilize different tools in order to work within Kaggle and then submit their predictions to a leaderboard. 
+
 Equitable AI for Dermatology: This challenge is about making AI better at diagnosing skin conditions for everyone, especially people with darker skin tones. Right now, many dermatology AI tools don’t work as well for these groups because they haven’t been trained on diverse skin images. This can lead to misdiagnoses, delayed treatments, and bigger health disparities.
 
 Our goal is to train a machine-learning model that can accurately classify 21 different skin conditions across all skin tones. Using datasets from Kaggle, our team will work to improve the model’s accuracy.
@@ -65,7 +67,7 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ---
 
-## **🧠 Model Development**  [Alice]
+## **🧠 Model Development**  [not done]
 
 **Describe (as applicable):**
 
