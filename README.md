@@ -109,8 +109,8 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ## **📄 References & Additional Resources** [not done]
 
-* Cite any relevant papers, articles, or tools used in your project
-
+* Transfer learning and fine-tuning. (n.d.). TensorFlow. https://www.tensorflow.org/tutorials/images/transfer_learning
+* 
 ---
 
 
