@@ -69,7 +69,7 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 **Describe (as applicable):**
 
-* Model(s) used (e.g., CNN with transfer learning, regression models)
+* Models used (CNN and DenseNet121)
 * Feature selection and Hyperparameter tuning strategies
 * Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
 
