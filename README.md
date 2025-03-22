@@ -30,6 +30,12 @@
 
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
+* From Kaggle, copy and edit the starter code
+* Review current starter code for understanding
+* Fot the initial run, confirm that all imports complete properly and there are no errors
+* 
+
+* 
 * How to clone the repository
 * How to install dependencies
 * How to set up the environment
