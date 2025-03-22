@@ -65,7 +65,7 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ---
 
-## **🧠 Model Development** [not done]
+## **🧠 Model Development** 
 
 **Describe (as applicable):**
 
@@ -107,10 +107,10 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 * We could have looked for more data to have a larger dataset to train and test on.
 ---
 
-## **📄 References & Additional Resources** [not done]
+## **📄 References & Additional Resources** 
 
 * Transfer learning and fine-tuning. (n.d.). TensorFlow. https://www.tensorflow.org/tutorials/images/transfer_learning
-* 
+* Kaggle Tutorial videos
 ---
 
 
