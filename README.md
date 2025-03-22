@@ -11,6 +11,7 @@
 |Jenny Leana Fotso Ngompe| @LeanaNgompe |data augmentation, fine-tune CNN model|
 | Alice Gonzalez | @AliceGonzalez1 | --- |
 | Uchenna Justin | @uchenna-hj | Dataset Benchmarking |
+| Eman Ahmed | @eahmed04 | Dataset Benchmarking |
 
 ---
 
