@@ -33,15 +33,8 @@
 
 * From Kaggle, copy and edit the starter code
 * Review current starter code for understanding
-* Fot the initial run, confirm that all imports complete properly and there are no errors
-* 
-
-* 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+* For the initial run, confirm that all imports complete properly and there are no errors
+* The Jupyter notebook cells contain all imports necessary for properly running the code, so as long as they are run in order there should be no issues.
 
 ---
 
