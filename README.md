@@ -28,7 +28,7 @@
 
 ---
 
-## **👩🏽‍💻 Setup & Execution**
+## **👩🏽‍💻 Setup & Execution** [not done]
 
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
@@ -48,7 +48,7 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ---
 
-## **📊 Data Exploration**
+## **📊 Data Exploration**[not done]
 
 
 **Describe:**
@@ -63,7 +63,7 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ---
 
-## **🧠 Model Development**
+## **🧠 Model Development** [not done]
 
 **Describe (as applicable):**
 
@@ -73,7 +73,7 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ---
 
-## **📈 Results & Key Findings**
+## **📈 Results & Key Findings**[not done]
 
 **Describe (as applicable):**
 
@@ -91,31 +91,21 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 ## **🖼️ Impact Narrative**
 
 **AJL challenge:**
-
-As Dr. Randi mentioned in her challenge overview, “Through poetry, art, and storytelling, you can reach others who might not know enough to understand what’s happening with the machine learning model or data visualizations, but might still be heavily impacted by this kind of work.”
-As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
-Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi6TlPviC3q/view) from the Algorithmic Justice League for inspiration!
-
-1. What steps did you take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)?
-   As a team, we used data augmentation to ensure that our training model had equal amounts of all skin tones. We rotated, shifted, and blurred the data so that our training data had a larger range of skin tones. This allows for our model to be trained on more then one skin tone and be able to identify skin conditional regardless of the shade. Below you will see the example of what blurred data looked like:
+   As a team, we used data augmentation to ensure that our training model had equal amounts of all skin tones. We rotated, shifted, and blurred the data so that our training data had a larger range of skin tones. This allows for our model to be trained on more then one skin tone and be able to identify skin conditional regardless of the shade. Below you will see an example of what blurred data looked like:
    ![image](https://github.com/user-attachments/assets/f37f6c7a-447a-441b-8cc8-151c78222c97)
 
-3. What broader impact could your work have?
-   The broader impact of this model would mean that dermatology AI would be more racially inclusive allowing for all people to use it without fear of misclassification or inaccuracy.
+   The broader impact of this model would mean that dermatology AI would be more racially inclusive allowing for all people to use it without fear of misclassification or inaccuracy. Overall creating a more inclusive environment for all users.
 
 ---
 
 ## **🚀 Next Steps & Future Improvements**
 
-**Address the following:**
-
-* What are some of the limitations of your model?
-* What would you do differently with more time/resources?
-* What additional datasets or techniques would you explore?
-
+* As a team we experienced difficulties in improving the score of our model, we tried to use CNN but it became quickly apparent that CNN might not work.
+* With more time our team would have been able to test more models allowing us to have a range of options on how to execute the model.
+* We could have looked for more data to have a larger dataset to train and test on.
 ---
 
-## **📄 References & Additional Resources**
+## **📄 References & Additional Resources** [not done]
 
 * Cite any relevant papers, articles, or tools used in your project
 
