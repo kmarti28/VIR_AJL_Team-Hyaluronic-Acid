@@ -53,7 +53,8 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 * We noticed that there were large disparities in skin condition and skin types
 * there was also the skin type that the experts labeled and self-labels that the users gave these disparities made it difficult to decide which of the features were a more accurate depiction of skin condition
 * Additionally there were some examples that had no skin condition label (-1) and in that case we were unsure of what to do in those instances.
-**Potential visualizations to include:**
+
+## **visualizations to include:**
 
 * sample dataset images:
       <img width="425" alt="image" src="https://github.com/user-attachments/assets/4ce9ee73-bf82-476c-8b2b-67f6b4757e43" />
