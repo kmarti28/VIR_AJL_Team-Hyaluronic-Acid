@@ -10,7 +10,7 @@
 |Lucia Njemanze| @lucia175 | built CNN model, finetuned external model|
 |Jenny Leana Fotso Ngompe| @LeanaNgompe |data augmentation, fine-tune CNN model|
 | Alice Gonzalez | @AliceGonzalez1 | --- |
-| ----- | ----- | ----- |
+| Uchenna Justin | @uchenna-hj | Dataset Benchmarking |
 
 ---
 
