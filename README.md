@@ -19,7 +19,7 @@
 
 
 * Utilized machine learning techniques with scikit-learn and TensorFlow to develop an inclusive CNN machine learning model for dermatology that accurately classifies skin conditions across all skin tones.
-* Achieved an F1 score of 0.04928  and a ranking of 56 on the final Kaggle Leaderboard. 
+* Achieved an F1 score of 0.4267  and a ranking of 31 on the final Kaggle Leaderboard. 
 * Implemented data preprocessing approaches of rotating, shifting, and blurring data images to optimize results within computing constraints.
 
 🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
@@ -67,30 +67,23 @@ Our goal is to train a machine-learning model that can accurately classify 21 di
 
 ---
 
-## **🧠 Model Development**  [not done]
+## **🧠 Model Development**  
 
-**Describe (as applicable):**
+**Describe:**
 
-* Models used (CNN and DenseNet121)
-* Feature selection and Hyperparameter tuning strategies
-* Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
-
----
-
-## **📈 Results & Key Findings**[not done]
-
-**Describe (as applicable):**
-
-* Performance metrics (e.g., Kaggle Leaderboard score, F1-score)
-* How your model performed overall
-* How your model performed across different skin tones (AJL)
-* Insights from evaluating model fairness (AJL)
-
-**Potential visualizations to include:**
-
-* Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
+* Models used:
+        * CNN -- This model was used initially, however, our team found that there was little improvememnt in scores with increased augmentation and so we pivoted to another approach. 
+        * Densenet -- This model is what our team ended with. It enabled us to get a much higher accuracy with the same amount of data augmentation. 
+* Initial exploration included finding the counts of each skin type, to determine which skin types were most underrepresented. This aided in knowing where the majority of data augmentation was needed. 
 
 ---
+
+## **📈 Results & Key Findings**
+
+**Describe:**
+
+* Our final score ended up being .42677 which landed this team in 31st place on the Kaggle leaderboard. 
+* How our model performed overall -- Our second model did much better than the initial CNN. It is our teams belief that if this model had been found sooner we would have been able to increase our accuracy with more data augmentation and data exploration. 
 
 ## **🖼️ Impact Narrative**
 
